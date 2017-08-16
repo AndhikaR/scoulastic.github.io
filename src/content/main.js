@@ -14,9 +14,6 @@ export class Main extends React.Component {
 
                     </div>
                     <div className="content-section">
-
-                    </div>
-                    <div className="content-section">
                         
                     </div>
                 </div>
